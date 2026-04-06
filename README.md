@@ -2,7 +2,6 @@
 
 A powerful and comprehensive **deepfake detection system** implementing multiple deep learning architectures, all packed into a **user-friendly web interface**! 🚀  
 
-🌐 **Live Web Application:** [Deepfake Detection Web App](https://ameencaslam-ddp-v4.streamlit.app/)  
 
 ---
 
